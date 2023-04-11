@@ -1,0 +1,12 @@
+# VSCODE
+.vscode
+
+#Terraform
+**/.terraform/*
+
+*.tfstate
+*.tfstate.*
+
+#Key Pairs
+*.pem
+*iac-*
